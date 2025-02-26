@@ -50,8 +50,3 @@
 
 Este proyecto está diseñado para ser interactivo, visualmente atractivo y fácil de usar. Si tienes dudas o sugerencias, ¡no dudes en contactar! 📩
 
-[![GIF de código en acción](https://media.giphy.com/media/3o6gE5IebT9sMjlz3O/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhoc3NuZzdnNXBlNTkzeXZiem84bTk1OW50dGNzZng4ZnowNHBqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)
-
----
-
-¡Espero que disfrutes explorando el portal! 🎉
