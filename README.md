@@ -1,5 +1,8 @@
 # 🌐 Proyecto de Portal Web con APIs Externas 🚀
 
+## Ejemplo en vivo
+[![Haz clic aquí](https://img.shields.io/badge/Botón-Azul?style=for-the-badge)](http://sistemadeapisphp.rf.gd/index.php)
+
 ¡Bienvenido a mi proyecto de portal web dinámico! Este sitio está diseñado para integrar **10 APIs** que te permitirán explorar información de manera interactiva y visualmente atractiva. ¡Echa un vistazo a las funcionalidades!
 
 ## ✨ Funcionalidades
